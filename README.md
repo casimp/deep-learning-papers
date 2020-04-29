@@ -10,6 +10,7 @@ Here is [a list of trustworthy sources of papers](trusty.md) in case I ran out o
 
 ## 2020-04 (3)
 
+- [Searching for activation functions](https://arxiv.org/abs/1710.05941) [[Notes](paper_notes/swish.md)](Swish)
 - [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934) [[Notes](paper_notes/yolov4.md)]
 - [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946.pdf) [[Notes](paper_notes/efficientnet.md)] <kbd>ICML 2019</kbd>
