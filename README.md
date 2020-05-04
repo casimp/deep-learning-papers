@@ -10,7 +10,7 @@ Here is [a list of trustworthy sources of papers](trusty.md).
 
 ## 2020-05 (2)
 
-- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) [[Notes](paper_notes/mobilenets.md)]
 - [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://arxiv.org/abs/1904.00760) [[Notes](paper_notes/bag_features.md)] <kbd>ICLR 2019</kbd>
 
 ## 2020-04 (6)
